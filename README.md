@@ -1,2 +1,2 @@
-# sigma-points
-Baseline sigma-point based implementation to select training samples for continual learning
+# Sigma Points for Continual Learning
+Baseline sigma-point based implementation to select replay samples for continual learning
